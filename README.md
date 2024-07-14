@@ -12,7 +12,7 @@
 
 Meanwhile, bring a large pot of salted water to a boil over high. Cook spaghetti according to package directions. Drain pasta, reserving 1 cup cooking liquid. Toss spaghetti with tomato sauce, adding reserved cooking liquid as needed to reach desired consistency. Sprinkle with parsley, and serve immediately.
 
-Reference of this pasta recipe: https://www.foodandwine.com/recipes/pulling-pantry-puttanesca
-# recipe
+**Reference** of this *pasta recipe*: https://www.foodandwine.com/recipes/pulling-pantry-puttanesca
+
 last line changed locally
 ### This is a REMOTE change :O
