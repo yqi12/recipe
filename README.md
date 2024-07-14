@@ -1,5 +1,6 @@
 # PASTA
 ### By Zoi Antonitsas
+![Pasta](recipe.jpg)
 1. Heat oil in a skillet over low; add garlic, and cook, stirring often, until brown, about 3 minutes. 
 2. Add anchovies, and, cook, stirring constantly, until anchovies melt into oil, about 1 minute and 30 seconds. 
 3. Stir in red pepper. Increase heat to medium, and stir in wine. Cook until reduced by half, about 6 minutes.
